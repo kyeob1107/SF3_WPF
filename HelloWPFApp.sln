@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWPFApp", "HelloWPFApp\HelloWPFApp.csproj", "{A67A4AA1-D4A0-472C-935E-9D9FAD06B343}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseIt", "ExpenseIt\ExpenseIt.csproj", "{3880B651-5067-465D-88F1-2946B19FE53E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_MVVM_practice", "Wpf_MVVM_practice\Wpf_MVVM_practice.csproj", "{AD347B37-CBAC-4A1D-B7F1-7FA3E6BA28DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3880B651-5067-465D-88F1-2946B19FE53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3880B651-5067-465D-88F1-2946B19FE53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3880B651-5067-465D-88F1-2946B19FE53E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD347B37-CBAC-4A1D-B7F1-7FA3E6BA28DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD347B37-CBAC-4A1D-B7F1-7FA3E6BA28DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD347B37-CBAC-4A1D-B7F1-7FA3E6BA28DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD347B37-CBAC-4A1D-B7F1-7FA3E6BA28DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
